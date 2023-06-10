@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akanksha161
 - 👀 I’m interested in Java, Python,C and Web development.
-- 🌱 I’m currently learning B.Tech(CSE)
+- 🌱 I completed B.Tech(CSE) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
